@@ -1,3 +1,7 @@
+| Desktop                         | Mobile                        |
+| :------------------------------ | :---------------------------- |
+| ![desktop](.github/desktop.png) | ![mobile](.github/mobile.png) |
+
 # Capítulo 01 - Desafio 01
 
 Este repositório contem a resolução do primeiro desafio da trilha de ReactJS do curso Ignite.
