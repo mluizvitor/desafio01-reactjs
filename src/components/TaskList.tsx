@@ -20,7 +20,7 @@ export function TaskList() {
 
     let newId = "";
 
-    for (let i = 0; i <= 10; i++) {
+    for (let i = 0; i < 10; i++) {
       newId += charBase.charAt(Math.floor(Math.random() * charBase.length));
     }
 
