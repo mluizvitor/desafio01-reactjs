@@ -22,7 +22,7 @@ a-z e 0-9.
 
 ## Iniciando a aplicação:
 
-\>\> [Acesse online](https://mvitor.dev/ignite-reactjs-chap01-desafio01/) ou:
+\>\> [Acesse online](https://mvitor.dev/to.do/) ou:
 
 Com Yarn:
 
